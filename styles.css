@@ -1,0 +1,61 @@
+/**
+ * ExtendTree
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL)
+ * This is available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/OSL-3.0
+ *
+ * DISCLAIMER**
+ *
+ * @category   Java basic Fronend Web project 
+ * @package    ExtendTree-Simple Java Web project
+ * @license    http://opensource.org/licenses/OSL-3.0  Open Software License (OSL)
+ * @Website    http://www.extendtree.com/
+ */
+
+
+body {
+        background-image: url(bg.gif);
+        background-position:top center;
+        background-attachment:fixed;
+        color: lightgray;
+     }
+a
+  {
+  color: lightgray;
+  }
+  
+.textbox
+    {
+     width:300px;
+     height: 40px;
+     font-size: 20px;
+    border-radius: 50px;
+    border: 5px solid gray;
+     background-color: graytext;
+    color: black
+    }  
+.dob
+    {
+     width:100px;
+     height: 40px;
+    border-radius: 50px;
+    border: 5px solid gray;
+     
+     font-size: 20px;
+    background-color: graytext;
+    color: black
+    }  
+
+
+.circle{
+    height: 35px;
+    width: 85px;
+    border-radius: 50px;
+    border: 5px solid brown;
+    background-color: red;
+    color: black;
+}
+    
