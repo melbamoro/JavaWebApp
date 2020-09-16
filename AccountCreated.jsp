@@ -18,9 +18,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 	<link rel="stylesheet" type="text/css" href="styles.css">
     <link rel="shortcut icon" href="icon.jpg" />
-
   </head>
-  
   <body>
 <center><h1>Congratulations..!! Your Account has been created.<br> 
 <a href='http://localhost:8080/javawebapp/index.jsp'> Login<a> To Continue..
